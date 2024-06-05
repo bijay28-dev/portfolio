@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  html {
+    font-family: "Cormorant", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    /* font-style: italic; */
+  }
+  h1 {
+    font-family: "Cormorant", serif;
+  }
+  h2 {
+    font-family: "Cormorant", serif;
+  }
+  p {
+    font-family: "Cormorant", serif;
+  }
+}
