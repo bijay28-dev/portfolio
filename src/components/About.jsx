@@ -3,7 +3,6 @@ import { AiOutlineCloudDownload } from 'react-icons/ai'
 import '../App.css'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
-import { clamp } from 'framer-motion'
 
 const About = () => {
     useEffect(() => {
