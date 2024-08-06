@@ -1,3 +1,3 @@
-# Built with HTML, CSS, ReactJS and Tailwind CSS
+# Built with HTML, CSS, JavaScript and ReactJS.
 
 [View My Portfolio](https://bijay-dev.netlify.app/)
