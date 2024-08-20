@@ -7,7 +7,7 @@ import node from '../assets/experience/node.png'
 import react from '../assets/experience/react.png'
 import java from '../assets/experience/java.png'
 import mysql from '../assets/experience/mysql.png'
-import github from '../assets/experience/github.png'
+import spring from '../assets/experience/spring.png'
 import AOS from 'aos'
 import 'aos/dist/aos.css'
 
@@ -25,15 +25,15 @@ const Experience = () => {
         },
         {
             id: 2,
-            scr: mysql,
-            title: 'MySQL',
-            style: 'shadow-blue-400'
+            scr: spring,
+            title: 'Spring',
+            style: 'shadow-green-400'
         },
         {
             id: 3,
-            scr: github,
-            title: 'Github',
-            style: 'shadow-blue-50'
+            scr: mysql,
+            title: 'MySQL',
+            style: 'shadow-blue-400'
         },
         {
             id: 4,
@@ -57,7 +57,7 @@ const Experience = () => {
             id: 7,
             scr: mongodb,
             title: 'MongoDB',
-            style: 'shadow-green-600'
+            style: 'shadow-green-500'
         },
         {
             id: 8,
@@ -70,7 +70,7 @@ const Experience = () => {
             scr: node,
             title: 'Node JS',
             style: 'shadow-green-400'
-        }
+        },
     ]
 
     return (
