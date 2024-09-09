@@ -43,7 +43,7 @@ const Home = () => {
               data-aos-duration="1000"
               className="animate-text bg-gradient-to-r from-teal-500 via-purple-500 to-orange-500 bg-clip-text text-transparent text-5xl font-black"
             >
-              Full-Stack Developer
+              Back-end Developer
             </span>
           </h2>
           <p
@@ -52,9 +52,9 @@ const Home = () => {
             data-aos-duration="2000"
             className="text-gray-400 py-4 max-w-md w-full"
           >
-            Hi There, I'm Bijay 👋 <br />A passionate Full Stack Developer 💻
+            Hi There, I'm Bijay 👋 <br />A passionate Backend Developer 💻
             having an experience of building Web Applications with Java /
-            JavaScript / ReactJS / Node JS and some other cool libraries and
+            JavaScript / Node JS / ReactJS and some other cool libraries and
             frameworks.
           </p>
           {/* <p data-aos="fade-in" data-aos-delay="400" data-aos-duration="2000" className='text-gray-400 py-4 max-w-md w-full'>
